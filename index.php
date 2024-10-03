@@ -81,7 +81,7 @@
             <a href="Registrar.php" class="btn btn-secondary">Registrate</a>
         </form>
         <footer>
-            <h5 style="width: fit-content;"></h5>Derechos Reservados @Juarez Sandoval - 2024</h5>
+            <h5 style="width: fit-content;"></h5>Derechos Reservados @Juarez Sandoval & @Salinas Soria - 2024</h5>
         </footer>
     </div>
 </body>

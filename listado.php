@@ -90,7 +90,7 @@
     </div>
     <center>
         <footer>
-            <h5>Derechos Reservados @Juarez Sandoval - 2024</h5>
+            <h5>Derechos Reservados @Juarez Sandoval & @Salinas Soria - 2024</h5>
         </footer>
     </center>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz4fnFO9gybF71wLlG6d3r3Zxj7dD7/8CROF+n+/4FqNE1y+cvXW+QZ9Cg" crossorigin="anonymous"></script>
